@@ -3,6 +3,7 @@
 	"author":"Biswaranjan",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp"],
+	"version": "1.2.0",
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
